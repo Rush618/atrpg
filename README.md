@@ -1,6 +1,13 @@
 # atrpg
 Another Text RPG
 
+Starting the game:
+           1) Download & Install Python 3.7+
+           2) Download AnotherTextRPG.zip file
+           3) Extract files into convenient folder
+           4) Open "GameStart" file with IDLES
+           5) Run the "GameStart" file
+           
 If you have any questions, notice any bugs, or have
 suggestions on how to improve the code or the
 gameplay experience, feel  free to email me at:
