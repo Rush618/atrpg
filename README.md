@@ -2,7 +2,8 @@
 Another Text RPG
 
 Starting the game:
-           (1) Download & Install Python 3.7+
+
+           1) Download & Install Python 3.7+
            2) Download AnotherTextRPG.zip file
            3) Extract files into convenient folder
            4) Open "GameStart" file with IDLES
