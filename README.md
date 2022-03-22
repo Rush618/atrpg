@@ -10,14 +10,14 @@ Starting the game:
            
 If you have any questions, notice any bugs, or have
 suggestions on how to improve the code or the
-gameplay experience, feel  free to email me at:
+gameplay experience, feel  free to text me at:
 
-           rushdeeter@yahoo.com
+           (614) 668 - 9719
 
 If you find yourself struggling to learn the commands,
 try reading the "AcceptableLists" file. While all of 
-these words are not always accepted, most of them
-are, most of the time.
+these words are not always accepted they will give
+you some direction.
            
 This game was created by Rush Deeter with creative
 help from Kathy Orta. Work began September 9, 2020 
